@@ -52,7 +52,7 @@ p{
 }
 #a2{
     display: inline-block;
-    margin-left: 40rem;
+    margin-left: 50rem;
     width: 11%;
     height:15px;
     background-color: #D0451B;
@@ -72,6 +72,7 @@ h2{
 }
 div{
     display: block;
+    margin-top: -150px;
 }
 #div1 {
     display: inline-block;
@@ -79,7 +80,7 @@ div{
     width:550px;
     background-color: white;
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.1);
-    margin: 30px;  
+    margin-left: 75px; 
 }
 
 h4{
@@ -103,7 +104,7 @@ h4{
     width:550px;
     background-color: white;
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.1);
-    margin: 30px;  
+    margin: 300px;  
 }
    
 #img2{
@@ -120,7 +121,8 @@ h4{
     width:550px;
     background-color: white;
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.1);
-    margin-left: 300px;
+    margin-left: 500px;
+    margin-top: -150px;
    
 }
 #img3{
